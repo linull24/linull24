@@ -6,6 +6,6 @@ Shanghai University,junior.
 - QQ : 2382963840
 ## Major:   
 - 2024: Qianweichang colledge.
-- 2025-present: TBD
+- 2025-present: Computer Science
 ---
 SHU南遮书社
