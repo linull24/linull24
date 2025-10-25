@@ -7,5 +7,3 @@ Shanghai University,junior.
 ## Major:   
 - 2024: Qianweichang colledge.Generall STEM;Application Math prefered.
 - 2025-present: Computer Science
----
-SHU南遮书社
