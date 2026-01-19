@@ -8,5 +8,5 @@ Shanghai University,junior.
 - Email: linull@shu.edu.cn
 - QQ : 2382963840
 ## Major:   
-- 2024: Qianweichang colledge.Generall STEM;Application Math prefered.
+- 2024: Qianweichang colledge.Generall STEM/Application Math
 - 2025-present: Computer Science
