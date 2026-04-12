@@ -3,7 +3,7 @@
 直到北京大雪将我埋没
 Shanghai University,junior.
 
- Youth Cultural Group
+Youth Cultural Group/南遮书社/Extremist
 ## contact: 
 - Email: linull@shu.edu.cn
 - QQ : 2382963840
