@@ -3,7 +3,9 @@
 直到北京大雪将我埋没
 Shanghai University,junior.
 
-Youth Cultural Group/南遮书社/Extremist
+Si spiritus pro nobis, quis contra nos?
+——Gabriele D'Annunzio
+
 ## contact: 
 - Email: linull@shu.edu.cn
 - QQ : 2382963480
